@@ -1,5 +1,6 @@
 ## Hi! I'm Matija Sinovčić
 I'm Matija, from Croatia, third year student at Faculty of Organization and Informatics, currently, i enjoy working inside .NET development enviroment, i also enjoy learing about UX/UI design. I also really enjoy learing about IoT in general.
+I'm using this profile to display some of my faculty and personal work.
 
 ---
 
